@@ -21,18 +21,15 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
  * Colorful notes (random)
 
 ## Screenshots
-<p>
-<img src="https://user-images.githubusercontent.com/38410384/122596221-2b447080-d087-11eb-96ff-e8797d46bdd5.png" alt="login screen" width = "250" >
-<img src="https://user-images.githubusercontent.com/38410384/122596212-297aad00-d087-11eb-9de9-4b5acada4e6f.png" alt="dark sign up"width = "250" >
-<img src="https://user-images.githubusercontent.com/38410384/122596216-2a134380-d087-11eb-83fb-c2cf91fb675c.png" alt="home grid view" width = "250">
-<img src="https://user-images.githubusercontent.com/38410384/122596209-28e21680-d087-11eb-9b19-cdb729729f11.png" alt="dark home screen" width = "250" >
-<img src="https://user-images.githubusercontent.com/38410384/122596200-254e8f80-d087-11eb-8be2-c452f748c70a.png" alt="add note" width = "250">
-  
-<img src="https://user-images.githubusercontent.com/38410384/122597737-71023880-d089-11eb-897f-3a0993236281.png" alt="setting" width = "250">
-<img src="https://user-images.githubusercontent.com/38410384/122596214-2a134380-d087-11eb-8836-ccb46aca5b68.png" alt="device setting" width = "250">
-  
-<img src="https://user-images.githubusercontent.com/38410384/122597989-d2c2a280-d089-11eb-8cc8-45b807fb51b8.png" alt="device setting" width = "250">
-<img src="https://user-images.githubusercontent.com/38410384/122597732-6f387500-d089-11eb-8417-133f8401cd4b.png" alt="device setting" width = "250">
-  
-</p>
+![Screenshot_1675284527](https://user-images.githubusercontent.com/106432154/216160575-27d657d5-d04b-49b8-829b-7956ab4d23dc.png)
+![Screenshot_1675284586](https://user-images.githubusercontent.com/106432154/216160583-5b1d9815-570b-4d58-ae07-3e278eea01ad.png)
+![Screenshot_1675284658](https://user-images.githubusercontent.com/106432154/216160586-151e3096-1626-40cd-96dd-70981133eb36.png)
+![Screenshot_1675284661](https://user-images.githubusercontent.com/106432154/216160591-8c2f61ce-ad2b-44d1-b623-e768be3a704f.png)
+![Screenshot_1675284668](https://user-images.githubusercontent.com/106432154/216160593-af8aa18d-0954-4a68-8890-52fc9022f5a8.png)
+![Screenshot_1675284674](https://user-images.githubusercontent.com/106432154/216160595-d4cc81f3-eb3e-4787-b54a-d8a0811a7623.png)
+![Screenshot_1675284682](https://user-images.githubusercontent.com/106432154/216160598-dcb0f77b-3b84-4557-a082-fa6b87b3a5a3.png)
+![Screenshot_1675284686](https://user-images.githubusercontent.com/106432154/216160601-be49c87c-5398-4a78-99fd-d73a744e237a.png)
+![Screenshot_1675284689](https://user-images.githubusercontent.com/106432154/216160607-13bd99ed-0b7c-4038-a3d3-e4681e9f5b88.png)
+![Screenshot_1675284694](https://user-images.githubusercontent.com/106432154/216160610-3ee1795b-ac5f-4ce8-9871-7014fcc787f4.png)
+
 
