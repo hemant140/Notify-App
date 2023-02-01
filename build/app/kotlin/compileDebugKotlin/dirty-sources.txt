@@ -1,0 +1,1 @@
+C:\Users\hemoh\Desktop\flutter_note_taking_app-master\android\app\src\main\kotlin\com\example\flutter_note\MainActivity.kt
