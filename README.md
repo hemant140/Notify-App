@@ -21,6 +21,7 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
  * Colorful notes (random)
 
 ## Screenshots
+<p>
 ![Screenshot_1675284527](https://user-images.githubusercontent.com/106432154/216160575-27d657d5-d04b-49b8-829b-7956ab4d23dc.png)
 ![Screenshot_1675284586](https://user-images.githubusercontent.com/106432154/216160583-5b1d9815-570b-4d58-ae07-3e278eea01ad.png)
 ![Screenshot_1675284658](https://user-images.githubusercontent.com/106432154/216160586-151e3096-1626-40cd-96dd-70981133eb36.png)
@@ -31,5 +32,5 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
 ![Screenshot_1675284686](https://user-images.githubusercontent.com/106432154/216160601-be49c87c-5398-4a78-99fd-d73a744e237a.png)
 ![Screenshot_1675284689](https://user-images.githubusercontent.com/106432154/216160607-13bd99ed-0b7c-4038-a3d3-e4681e9f5b88.png)
 ![Screenshot_1675284694](https://user-images.githubusercontent.com/106432154/216160610-3ee1795b-ac5f-4ce8-9871-7014fcc787f4.png)
-
+</p>
 
